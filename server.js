@@ -1,6 +1,6 @@
 const express = require('express'); //Adding Express module
 const path = require('path'); // Adding path module
-const PORT = process.env.port || 3001; //Defining applicatio port number
+const PORT = process.env.PORT || 3001; //Defining applicatio port number
 const fs = require('fs') // Adding File system Module
 
 const app = express(); //Initializing Express app
