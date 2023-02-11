@@ -26,5 +26,11 @@ https://note-taking-app-0909.herokuapp.com/
 ## Screenshots
 
 #### Desktop view
+![Desktop Homepage](public/assets/images/Screenshot_desktop0.jpg)
+![Desktop Notes](public/assets/images/Screenshot_desktop1.jpg)
 
 #### Mobile view
+
+![Mobile Homepage](public/assets/images/Screenshot_mobile0.jpg)
+![Mobile Notes](public/assets/images/Screenshot_mobile1.jpg)
+
